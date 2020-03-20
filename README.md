@@ -20,4 +20,5 @@
 - 关于《敏捷之旅杂志》
 - [敏捷志愿者团队](/md/志愿者团队.md)
 - [迭代计划](/md/迭代计划.md)
+- [敏捷之旅中国组织者](https://github.com/agiletour-china/organizing)
 
