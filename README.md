@@ -1,4 +1,4 @@
-# agile-magazine 《敏捷之旅杂志》
+# agile-magazine 《敏捷之旅杂志》
 
 ## 敏捷案例
 
