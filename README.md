@@ -24,20 +24,6 @@
 ## 志愿者团队：
 
 - 发起：北京敏捷社区
-- PO：[胡俊](https://gitee.com/ibehujun/blog/blob/master/md/%E8%83%A1%E4%BF%8A_%E5%B0%8F%E7%8E%A9%E7%AB%A5.md)
+- PO：[胡俊](https://gitee.com/ibehujun/blog/blob/master/md/%E8%83%A1%E4%BF%8A_%E5%B0%8F%E7%8E%A9%E7%AB%A5.md)
 - SM：虚位以待
 - Dev Team：虚位以待
-
-
-
-
-
-<<<<<<< HEAD
-=======
-近期活动：
-- 设计思维
-- 产品梳理会（杂志愿景、影响地图、故事地图、产品路线图）
-- Scrum 会议（团队规则、研发平台、代码仓库）
-- 持续更新中
->>>>>>> 48fbefb9b7405735671cf4ab58435be72767a8e7
-
